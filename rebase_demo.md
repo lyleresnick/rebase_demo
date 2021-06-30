@@ -1,6 +1,20 @@
 # This is a rebasing demo
 
-## Here is a rtitle from new feature
+## Added Part 1
+
+## Added Part 2
+
+
+this is a demo
+
+
+## Added Part 3
+
+
+this is a demo that is getting confusing!
+
+
+## Here is a title from new feature
 
 
 This is getting more interesting1
@@ -9,6 +23,6 @@ This is getting more interesting3
 This is getting more interesting4
 This is getting more interesting5
 
-## here s another title 
+## here is another title 
 
 This is getting more interesting again
